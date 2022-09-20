@@ -1,6 +1,7 @@
 tmp
 # Compiled class file
 *.class
+*.sh
 
 # Log file
 *.log
